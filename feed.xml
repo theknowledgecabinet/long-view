@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 06 Nov 2026 18:36:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 18:12:20 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>What Holds a Society Together: Lee Harris in Ten Minutes</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/</link>
+    <guid isPermaLink="false">long-view-5</guid>
+    <pubDate>Sat, 07 Nov 2026 18:12:20 +0000</pubDate>
+    <description>&lt;p&gt;Harris starts by being careful with his word. He chose &amp;quot;civilization&amp;quot; because it is value-free, not a banner for us against them.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Our new epoch in history: 10 minutes with philosopher/political thinker/novelist Lee Harris, by Bill Steigerwald (interviewing Lee Harris) (2004). &lt;a href=&quot;https://harris.pundicity.com/2396/our-new-epoch-in-history&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Look at the ties that hold your own community, workplace or circle of friends together. What shared habits, values or trusts make it more than a collection of strangers, and how do you notice when those bonds are quietly wearing thin?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/audio.mp3" length="1140716" type="audio/mpeg"/>
+    <itunes:duration>190</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/share.jpg"/>
+  </item>
   <item>
     <title>The Future Is Not Written: Popper&#x27;s Open Society</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/</link>

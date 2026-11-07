@@ -23,4 +23,4 @@ Each edition links to its original reading, which is always worth your time.
 - **This repo:** rebuilt automatically after each new edition and served by GitHub Pages
   (Jekyll, branch `main`). Every file is generated, so edits made here are overwritten.
 
-4 editions so far.
+5 editions so far.

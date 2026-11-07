@@ -55,6 +55,9 @@ image:
 prev:
   url: /editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/
   title: 'The Glue That Holds Civilisation Together: Ibn Khaldun''s Asabiyyah'
+next:
+  url: /editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/
+  title: 'What Holds a Society Together: Lee Harris in Ten Minutes'
 ---
 {% raw %}
 Today's reading is Karl Popper's defence of the open society, and it is a natural counterpoint to Lee Harris, because the two are working on the same ground: what happens when a people organise their lives around a story they believe is already written. Popper gives that story a name and a method. He calls it historicism, 'the doctrine that history is controlled by specific historical or evolutionary laws whose discovery would enable us to prophesy the destiny of man.' The historicist believes the future has already been written, that if we can only read the laws of history we will know where everything is going. And that, Popper argues, is where the most dangerous ideologies come from: they promise a destination and then spend the present in the service of arriving there.
