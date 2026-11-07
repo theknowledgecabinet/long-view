@@ -28,7 +28,7 @@ further:
   source: Wikipedia (from an endnote to chapter 7 of The Open Society and Its Enemies)
 audio:
   url: /assets/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/audio.mp3
-  bytes: 1748396
+  bytes: 1746956
   seconds: 291
   length: 5 min
 image:
