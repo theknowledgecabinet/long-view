@@ -1,0 +1,60 @@
+---
+layout: default
+---
+{%- assign eds = site.editions | sort: "date" | reverse -%}
+{%- assign today = eds | first -%}
+<section class="hello">
+  <p class="eyebrow">An evening lesson in ideas</p>
+  <h1>{{ site.title }}</h1>
+  <p class="lede">A calm five minutes with a big idea, every evening. The thinkers who help us understand how people live together, told with warmth, to read or to listen to.</p>
+</section>
+{%- if today %}
+<div class="with-side">
+<section class="today" style="--topic: {{ today.colour }}">
+  <p class="eyebrow">Latest evening · {{ today.date | date: "%A %-d %B" }}</p>
+  {%- if today.image %}
+  <a class="today-media" href="{{ today.url | relative_url }}" tabindex="-1" aria-hidden="true">{% include figure.html image=today.image hero=true nocaption=true %}</a>
+  {%- endif %}
+  <p class="meta">
+    <a class="chip" href="{{ '/themes/' | append: today.theme_slug | append: '/' | relative_url }}">{{ today.theme }}</a>
+    <span>{{ today.icon }} {{ today.slot_label }}</span>
+    {%- if today.audio %}<span>🎧 {{ today.audio.length }} listen</span>{% endif %}
+  </p>
+  <h2 class="title"><a href="{{ today.url | relative_url }}">{{ today.title }}</a></h2>
+  {%- if today.reading %}<p class="muted">{{ today.reading.author }} · <cite>{{ today.reading.title }}</cite></p>{% endif %}
+  <p class="lede">{{ today.description }}</p>
+  {% if today.audio %}{% include player.html edition=today %}{% endif %}
+  <div class="think">
+    <h2>🌙 Something to think about</h2>
+    <blockquote>{{ today.question }}</blockquote>
+  </div>
+  <p class="actions"><a class="button" href="{{ today.url | relative_url }}">Read tonight's edition →</a></p>
+</section>
+{% include sidebar.html skip=today.url %}
+</div>
+{%- else %}
+<section class="narrow"><p class="lede">The first evening arrives soon.</p></section>
+{%- endif %}
+
+<section class="block">
+  <div class="section-head"><h2>Wander by theme</h2><a href="{{ '/themes/' | relative_url }}">All themes →</a></div>
+  <div class="chips">
+    {%- for t in site.data.themes %}{% if t.count > 0 %}
+    <a class="chip big" style="--topic: {{ t.colour }}" href="{{ '/themes/' | append: t.slug | append: '/' | relative_url }}">{{ t.name }} <span class="count">{{ t.count }}</span></a>
+    {%- endif %}{% endfor %}
+    <a class="chip big neutral" href="{{ '/thinkers/' | relative_url }}">📚 Thinkers</a>
+  </div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>The rhythm of the week</h2><a href="{{ '/about/' | relative_url }}">About →</a></div>
+  <ul class="week">
+    <li><b>📜 Monday</b><span>An essay by Lee Harris</span></li>
+    <li><b>🏛️ Tuesday</b><span>A classic</span></li>
+    <li><b>📚 Wednesday</b><span>A modern thinker</span></li>
+    <li><b>💡 Thursday</b><span>One idea, explained</span></li>
+    <li><b>🔍 Friday</b><span>Another angle</span></li>
+    <li><b>☕ Saturday</b><span>Something lighter</span></li>
+    <li><b>🗓️ Sunday</b><span>The week in one page</span></li>
+  </ul>
+</section>

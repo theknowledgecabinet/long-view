@@ -1,0 +1,18 @@
+{%- assign e = include.edition -%}
+<a class="card" href="{{ e.url | relative_url }}" style="--topic: {{ e.colour }}">
+  <div class="card-media{% unless e.image %} soft-art{% endunless %}" {% if e.image %}style="background-color: {{ e.image.color }}"{% endif %}>
+    {%- if e.image %}
+    <img src="{{ e.image.card.url | relative_url }}"
+         srcset="{{ e.image.card.url | relative_url }} {{ e.image.card.w }}w, {{ e.image.medium.url | relative_url }} {{ e.image.medium.w }}w"
+         sizes="(min-width: 760px) 340px, 100vw"
+         width="{{ e.image.card.w }}" height="{{ e.image.card.h }}" alt="" loading="lazy" decoding="async">
+    {%- else %}
+    <span aria-hidden="true">{{ e.icon }}</span>
+    {%- endif %}
+  </div>
+  <div class="card-body">
+    <p class="card-meta"><span class="dot"></span>{{ e.theme }} · {{ e.date | date: "%-d %b" }}{% if e.audio %} · 🎧 {{ e.audio.length }}{% endif %}</p>
+    <h3>{{ e.title }}</h3>
+    {%- if e.thinker %}<p class="card-lede">{{ e.thinker }}</p>{% endif %}
+  </div>
+</a>

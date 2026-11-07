@@ -1,0 +1,32 @@
+- name: Fantasy ideology
+  slug: fantasy-ideology
+  colour: '#9a6fc4'
+  count: 1
+- name: Civilisation and its enemies
+  slug: civilisational-conflict
+  colour: '#c9776b'
+  count: 1
+- name: Social cohesion
+  slug: social-cohesion
+  colour: '#5f9e7f'
+  count: 1
+- name: Ideology and myth
+  slug: ideology-and-myth
+  colour: '#c48a3f'
+  count: 1
+- name: Tribalism and group identity
+  slug: tribalism-and-identity
+  colour: '#4f8fb0'
+  count: 0
+- name: Liberal democracy under pressure
+  slug: democracy-under-pressure
+  colour: '#b86a92'
+  count: 0
+- name: Civilisational resilience
+  slug: civilisational-resilience
+  colour: '#6d9a4d'
+  count: 0
+- name: Pragmatism and idealism
+  slug: pragmatism-vs-idealism
+  colour: '#4c9a9c'
+  count: 0

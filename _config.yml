@@ -1,0 +1,16 @@
+title: The Long View
+description: 'A calm five minutes with a big idea, every evening: the thinkers who
+  help us understand how people live together, to read or to listen to.'
+author: The Knowledge Cabinet
+url: https://theknowledgecabinet.github.io
+baseurl: /long-view
+timezone: Europe/London
+markdown: kramdown
+kramdown:
+  input: GFM
+collections:
+  editions:
+    output: true
+excerpt_separator: ''
+exclude:
+- README.md

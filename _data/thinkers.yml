@@ -1,0 +1,28 @@
+- name: Lee Harris
+  editions:
+  - reading: 'Al Qaeda''s Fantasy Ideology: War without Clausewitz'
+    year: '2002'
+    title: 'A Stage, Not a Strategy: Harris on Fantasy Ideology'
+    url: /editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/
+    colour: '#9a6fc4'
+- name: Ibn Khaldun
+  editions:
+  - reading: Asabiyyah
+    year: '1377'
+    title: 'The Glue That Holds Civilisation Together: Ibn Khaldun''s Asabiyyah'
+    url: /editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/
+    colour: '#5f9e7f'
+- name: Karl Popper
+  editions:
+  - reading: The Open Society and Its Enemies
+    year: '1945'
+    title: 'The Future Is Not Written: Popper''s Open Society'
+    url: /editions/2026-11-06-the-future-is-not-written-popper-s-open-society/
+    colour: '#c48a3f'
+- name: Carl Schmitt
+  editions:
+  - reading: The Concept of the Political
+    year: '1932'
+    title: 'Friend or Enemy: What Makes a People?'
+    url: /editions/2026-11-04-friend-or-enemy-what-makes-a-people/
+    colour: '#c9776b'

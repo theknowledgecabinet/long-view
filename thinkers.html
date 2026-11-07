@@ -1,0 +1,25 @@
+---
+layout: default
+title: Thinkers
+permalink: /thinkers/
+---
+<header class="page-head">
+  <p class="eyebrow">Good company</p>
+  <h1>Thinkers</h1>
+  <p class="muted">Everyone we have read so far, from fourteenth-century Tunis to the present day.</p>
+</header>
+{%- for t in site.data.thinkers %}
+<section class="thinker">
+  <h2>{{ t.name }}</h2>
+  <ul class="rows">
+  {%- for e in t.editions %}
+    <li style="--topic: {{ e.colour }}">
+      <a href="{{ e.url | relative_url }}">
+        <span class="row-title">{{ e.title }}</span>
+        <span class="row-idea"><span class="dot"></span><cite>{{ e.reading }}</cite>{% if e.year != "" %} · {{ e.year }}{% endif %}</span>
+      </a>
+    </li>
+  {%- endfor %}
+  </ul>
+</section>
+{%- endfor %}

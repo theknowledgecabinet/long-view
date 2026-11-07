@@ -1,0 +1,74 @@
+---
+layout: default
+---
+<div class="with-side">
+<article class="edition" style="--topic: {{ page.colour }}">
+  <header class="ed-head">
+    <p class="eyebrow">{{ page.date | date: "%A %-d %B %Y" }}</p>
+    <p class="meta">
+      <a class="chip" href="{{ '/themes/' | append: page.theme_slug | append: '/' | relative_url }}">{{ page.theme }}</a>
+      <span>{{ page.icon }} {{ page.slot_label }}</span>
+      {%- if page.audio %}<span>🎧 {{ page.audio.length }} listen</span>{% endif %}
+    </p>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  {% if page.image %}{% include figure.html image=page.image hero=true %}{% endif %}
+  {% if page.audio %}{% include player.html edition=page %}{% endif %}
+
+  {%- if page.reading %}
+  <section class="reading">
+    <p class="label">📖 Tonight's reading</p>
+    <h2>{{ page.reading.title }}</h2>
+    <p class="by">{{ page.reading.author }} · {{ page.reading.year }} · {{ page.reading.source }}</p>
+    <div class="context">{{ page.reading.context | markdownify }}</div>
+  </section>
+  {%- endif %}
+
+  <section class="prose first">
+    <h2>{% if page.reading %}💡 The idea in brief{% else %}🗓️ The week in one page{% endif %}</h2>
+    {{ content }}
+  </section>
+
+  <section class="prose">
+    <h2>🧭 {{ page.bigger_heading }}</h2>
+    {{ page.bigger_picture | markdownify }}
+  </section>
+
+  {%- if page.other_side %}
+  <section class="angle">
+    <h2>🔍 Another angle</h2>
+    {{ page.other_side | markdownify }}
+  </section>
+  {%- endif %}
+
+  <section class="think">
+    <h2>🌙 Something to think about</h2>
+    <blockquote>{{ page.question }}</blockquote>
+  </section>
+
+  {%- if page.further %}
+  <section class="further">
+    <h2>Further reading</h2>
+    <ul>
+      {%- for f in page.further %}
+      <li><a href="{{ f.url }}" rel="noopener">{{ f.title }}</a> <span class="muted">· {{ f.source }}</span></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+
+  <section class="source">
+    <p class="actions">
+      {%- if page.reading %}<a class="button" href="{{ page.reading.url }}" rel="noopener">Read the original →</a>{% endif %}
+      <button class="button ghost" type="button" data-share hidden>Share</button>
+    </p>
+  </section>
+
+  <nav class="prevnext" aria-label="More editions">
+    {% if page.prev %}<a class="prev" href="{{ page.prev.url | relative_url }}"><span>← The evening before</span>{{ page.prev.title }}</a>{% else %}<span></span>{% endif %}
+    {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}"><span>The next evening →</span>{{ page.next.title }}</a>{% endif %}
+  </nav>
+</article>
+{% include sidebar.html skip=page.url %}
+</div>

@@ -1,0 +1,26 @@
+---
+layout: default
+title: Themes
+permalink: /themes/
+---
+<header class="page-head">
+  <p class="eyebrow">Eight threads</p>
+  <h1>Themes</h1>
+  <p class="muted">Every evening follows one of these threads, taking turns so each gets its moment.</p>
+</header>
+<div class="topic-list">
+{%- for t in site.data.themes %}
+  {%- if t.count > 0 %}
+  {%- assign latest = site.editions | where: "theme", t.name | sort: "date" | reverse | first %}
+  <a class="topic-tile" style="--topic: {{ t.colour }}" href="{{ '/themes/' | append: t.slug | append: '/' | relative_url }}">
+    <span class="topic-name"><span class="dot"></span>{{ t.name }}</span>
+    <span class="muted">{{ t.count }} edition{% if t.count != 1 %}s{% endif %}{% if latest %} · latest: {{ latest.title }}{% endif %}</span>
+  </a>
+  {%- else %}
+  <div class="topic-tile waiting" style="--topic: {{ t.colour }}">
+    <span class="topic-name"><span class="dot"></span>{{ t.name }}</span>
+    <span class="muted">Coming soon</span>
+  </div>
+  {%- endif %}
+{%- endfor %}
+</div>

@@ -1,0 +1,22 @@
+{
+ "name": "The Long View",
+ "short_name": "Long View",
+ "description": "A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.",
+ "start_url": "/long-view/",
+ "scope": "/long-view/",
+ "display": "standalone",
+ "background_color": "#fbf6ee",
+ "theme_color": "#fbf6ee",
+ "icons": [
+  {
+   "src": "/long-view/assets/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/long-view/assets/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

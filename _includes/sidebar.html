@@ -1,0 +1,25 @@
+{%- assign recent = site.editions | sort: "date" | reverse -%}
+<aside class="side" aria-label="Recent editions">
+  <div class="section-head"><h2>Recent evenings</h2><a href="{{ '/all/' | relative_url }}">All {{ recent.size }} →</a></div>
+  <ul class="side-list">
+    {%- assign shown = 0 -%}
+    {%- for e in recent -%}
+    {%- if e.url == include.skip -%}{%- continue -%}{%- endif -%}
+    {%- if shown >= 8 -%}{%- break -%}{%- endif -%}
+    {%- assign shown = shown | plus: 1 %}
+    <li style="--topic: {{ e.colour }}">
+      <a href="{{ e.url | relative_url }}">
+        <span class="side-thumb{% unless e.image %} soft-art{% endunless %}" {% if e.image %}style="background-color: {{ e.image.color }}"{% endif %}>
+          {%- if e.image %}<img src="{{ e.image.card.url | relative_url }}" width="{{ e.image.card.w }}" height="{{ e.image.card.h }}" alt="" loading="lazy" decoding="async">
+          {%- else %}<span aria-hidden="true">{{ e.icon }}</span>{% endif -%}
+        </span>
+        <span class="side-text">
+          <span class="side-meta"><span class="dot"></span>{{ e.theme }} · {{ e.date | date: "%-d %b" }}</span>
+          <span class="side-title">{{ e.title }}</span>
+        </span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- if shown == 0 %}<p class="muted">More evenings are on their way.</p>{% endif %}
+</aside>

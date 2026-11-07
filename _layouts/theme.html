@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{%- assign eds = site.editions | where: "theme", page.theme | sort: "date" | reverse -%}
+<header class="page-head" style="--topic: {{ page.colour }}">
+  <p class="eyebrow"><a href="{{ '/themes/' | relative_url }}">Themes</a></p>
+  <h1><span class="dot"></span>{{ page.theme }}</h1>
+  <p class="muted">{{ eds.size }} edition{% if eds.size != 1 %}s{% endif %}</p>
+</header>
+<div class="grid">
+  {%- for e in eds %}{% include card.html edition=e %}{% endfor %}
+</div>

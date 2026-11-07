@@ -1,0 +1,28 @@
+---
+layout: default
+title: Every evening
+permalink: /all/
+---
+{%- assign eds = site.editions | sort: "date" | reverse -%}
+<header class="page-head">
+  <p class="eyebrow">The archive</p>
+  <h1>Every evening</h1>
+  <p class="muted">{{ eds.size }} so far, newest first.</p>
+</header>
+{%- assign months = eds | group_by_exp: "e", "e.date | date: '%B %Y'" %}
+{%- for m in months %}
+<section class="block">
+  <h2 class="month">{{ m.name }}</h2>
+  <ul class="rows">
+  {%- for e in m.items %}
+    <li style="--topic: {{ e.colour }}">
+      <a href="{{ e.url | relative_url }}">
+        <span class="row-date">{{ e.date | date: "%a %-d" }}</span>
+        <span class="row-title">{{ e.title }}</span>
+        <span class="row-idea"><span class="dot"></span>{{ e.theme }}{% if e.thinker %} · {{ e.thinker }}{% endif %}{% if e.audio %} · 🎧 {{ e.audio.length }}{% endif %}</span>
+      </a>
+    </li>
+  {%- endfor %}
+  </ul>
+</section>
+{%- endfor %}

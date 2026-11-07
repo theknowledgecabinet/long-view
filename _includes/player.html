@@ -1,0 +1,7 @@
+{%- assign e = include.edition -%}
+<div class="player" data-player
+     data-title="{{ e.title | escape }}" data-artist="{{ site.title | escape }}"
+     data-artwork="{% if e.image %}{{ e.image.medium.url | relative_url }}{% else %}{{ '/assets/icons/icon-512.png' | relative_url }}{% endif %}"
+     data-seconds="{{ e.audio.seconds }}">
+  <audio controls preload="none" src="{{ e.audio.url | relative_url }}"></audio>
+</div>
