@@ -44,7 +44,7 @@ html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-2) 100%) fixed, var(--bg);
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-2) 60%, var(--bg) 100%), var(--bg);
   color: var(--text);
   font: 17px/1.7 var(--sans);
   -webkit-font-smoothing: antialiased;
@@ -53,11 +53,11 @@ body {
 }
 /* Soft glows behind everything, like light on the horizon. */
 body::before {
-  content: ""; position: fixed; inset: -20vmax; z-index: -1; pointer-events: none;
+  content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
   background:
-    radial-gradient(40vmax 30vmax at 12% 8%, var(--glow-1), transparent 70%),
-    radial-gradient(42vmax 34vmax at 92% 18%, var(--glow-2), transparent 70%),
-    radial-gradient(36vmax 30vmax at 50% 105%, var(--glow-3), transparent 70%);
+    radial-gradient(48vmax 36vmax at 10% 2%, var(--glow-1), transparent 70%),
+    radial-gradient(48vmax 38vmax at 95% 6%, var(--glow-2), transparent 70%),
+    radial-gradient(50vmax 40vmax at 50% 100%, var(--glow-3), transparent 70%);
 }
 @media (prefers-color-scheme: dark) {
   /* a few quiet stars */
@@ -108,7 +108,7 @@ main.wrap { padding-top: 24px; padding-bottom: 56px; }
 .nav a { text-decoration: none; padding: 8px 11px; border-radius: 999px; color: var(--muted); font-size: .95rem; font-weight: 600; display: flex; }
 .nav a:hover { color: var(--text); background: var(--surface); }
 @media (max-width: 520px) { .nav .wide { display: none; } }
-@media (max-width: 380px) { .brand span { display: none; } }
+@media (max-width: 440px) { .brand span { display: none; } .nav a { padding: 8px 8px; } }
 .site-footer { border-top: 1px solid var(--line); padding: 36px 0 52px; color: var(--muted); font-size: .95rem; }
 .footer-actions { display: flex; flex-wrap: wrap; gap: 10px; }
 .footer-sun { font: italic 500 1.3rem var(--display); color: var(--text); }
