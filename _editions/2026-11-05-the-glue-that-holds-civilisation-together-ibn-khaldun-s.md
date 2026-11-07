@@ -26,6 +26,32 @@ further:
 - title: 'The Muqaddimah: Ibn Khaldun''s full treatise on the rise and fall of civilisations'
   url: https://en.wikipedia.org/wiki/Muqaddimah
   source: Wikipedia
+audio:
+  url: /assets/editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/audio.mp3
+  bytes: 1462556
+  seconds: 244
+  length: 4 min
+image:
+  card:
+    url: /assets/editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/card.webp
+    w: 400
+    h: 267
+  medium:
+    url: /assets/editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/medium.webp
+    w: 800
+    h: 533
+  large:
+    url: /assets/editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/large.webp
+    w: 1400
+    h: 933
+  share:
+    url: /assets/editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/share.jpg
+  color: '#8c886f'
+  alt: Independence Square, Tunis ساحة الاستقلال, تونس العاصمة
+  artist: Sami Mlouhi
+  licence: CC BY-SA 4.0
+  licence_url: https://creativecommons.org/licenses/by-sa/4.0
+  page: https://commons.wikimedia.org/wiki/File:Ibn_Khaldoun_Sculpture-Tunis_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86.jpg
 prev:
   url: /editions/2026-11-04-friend-or-enemy-what-makes-a-people/
   title: 'Friend or Enemy: What Makes a People?'

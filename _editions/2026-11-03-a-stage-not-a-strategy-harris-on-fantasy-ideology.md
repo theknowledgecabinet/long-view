@@ -22,6 +22,32 @@ bigger_picture: 'The essay stands quietly on a lineage worth knowing. William Ja
 bigger_heading: The bigger picture
 other_side: From a different quarter, Sigmund Freud looked at the same question from inside the group, asking what binds individuals to one another and to a leader. He found the answer in identification, a libidinal attachment he described as a kind of love. Harris shows the outside of the scene, the script and the props, while Freud shows the inside, the bond that keeps the audience in their seats. Together they suggest that a group's readiness to stop testing its story against reality has two faces, a play to perform and a tie to preserve.
 question: Is there a belief you hold, or a cause you once supported, that you would struggle to defend in a calm conversation? What do you think that belief was doing for you, describing the world, or staging it?
+audio:
+  url: /assets/editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/audio.mp3
+  bytes: 1674668
+  seconds: 279
+  length: 5 min
+image:
+  card:
+    url: /assets/editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/card.webp
+    w: 400
+    h: 268
+  medium:
+    url: /assets/editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/medium.webp
+    w: 800
+    h: 535
+  large:
+    url: /assets/editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/large.webp
+    w: 1400
+    h: 936
+  share:
+    url: /assets/editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/share.jpg
+  color: '#7f6e69'
+  alt: 'Title: The Meeting of Cortés and Moctezuma . From the Conquest of Mexico series, Mexico, second half of seventeenth century. Oil on canvas by unknown artists. Jay I. Kislak Collection, Rare Book and Special Collections Division, Library of Congress (26.1)'
+  artist: Unknown artist
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:The_Meeting_of_Cort%C3%A9s_and_Moctezuma_(Conquest_of_Mexico)_Painting.jpg
 next:
   url: /editions/2026-11-04-friend-or-enemy-what-makes-a-people/
   title: 'Friend or Enemy: What Makes a People?'

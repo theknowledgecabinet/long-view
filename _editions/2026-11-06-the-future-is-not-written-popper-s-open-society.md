@@ -26,6 +26,32 @@ further:
 - title: Paradox of tolerance
   url: https://en.wikipedia.org/wiki/Paradox_of_tolerance
   source: Wikipedia (from an endnote to chapter 7 of The Open Society and Its Enemies)
+audio:
+  url: /assets/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/audio.mp3
+  bytes: 1748396
+  seconds: 291
+  length: 5 min
+image:
+  card:
+    url: /assets/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/card.webp
+    w: 400
+    h: 323
+  medium:
+    url: /assets/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/medium.webp
+    w: 800
+    h: 646
+  large:
+    url: /assets/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/large.webp
+    w: 1400
+    h: 1130
+  share:
+    url: /assets/editions/2026-11-06-the-future-is-not-written-popper-s-open-society/share.jpg
+  color: '#a29282'
+  alt: Image of Philipp Foltz, Funeral Oration of Pericles, cropped from https://commons.wikimedia.org/wiki/File:Fotoreproductie_van_een_schilderij,_voorstellende_Pericles_draagt_zijn_grafrede_voor_te_Athene_Das_Zeitalter_des_Pericles_(titel_op_object),_RP-F-2001-7-864-5.jpg , Rijksmuseum, CC0, via Wikimedia Commons
+  artist: Rijksmuseum, CC0, via Wikimedia Commons, Rijksmuseum
+  licence: CC0
+  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  page: https://commons.wikimedia.org/wiki/File:PericlesFuneralOrationRijksmuseum.jpg
 prev:
   url: /editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/
   title: 'The Glue That Holds Civilisation Together: Ibn Khaldun''s Asabiyyah'

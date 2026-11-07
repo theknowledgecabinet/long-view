@@ -26,6 +26,32 @@ further:
 - title: The Concept of the Political (Wikipedia overview)
   url: https://en.wikipedia.org/wiki/The_Concept_of_the_Political
   source: Wikipedia
+audio:
+  url: /assets/editions/2026-11-04-friend-or-enemy-what-makes-a-people/audio.mp3
+  bytes: 1299980
+  seconds: 217
+  length: 4 min
+image:
+  card:
+    url: /assets/editions/2026-11-04-friend-or-enemy-what-makes-a-people/card.webp
+    w: 400
+    h: 302
+  medium:
+    url: /assets/editions/2026-11-04-friend-or-enemy-what-makes-a-people/medium.webp
+    w: 800
+    h: 604
+  large:
+    url: /assets/editions/2026-11-04-friend-or-enemy-what-makes-a-people/large.webp
+    w: 1400
+    h: 1057
+  share:
+    url: /assets/editions/2026-11-04-friend-or-enemy-what-makes-a-people/share.jpg
+  color: '#d3c1b5'
+  alt: Ink drawing on manuscript offered by Thomas Hobbes to Charles II.
+  artist: Wenceslas Hollar or (more likely) Abraham Bosse.
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:Drawing_of_frontispiece_of_Leviathan.jpg
 prev:
   url: /editions/2026-11-03-a-stage-not-a-strategy-harris-on-fantasy-ideology/
   title: 'A Stage, Not a Strategy: Harris on Fantasy Ideology'
