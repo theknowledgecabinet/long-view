@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 07 Nov 2026 18:12:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 18:27:53 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Bonds That Hold Us: A Week in One Page</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/</link>
+    <guid isPermaLink="false">long-view-6</guid>
+    <pubDate>Sun, 08 Nov 2026 18:27:53 +0000</pubDate>
+    <description>&lt;p&gt;Monday opened with Lee Harris and his favourite trick: pressing something strange into a familiar shape.&lt;/p&gt;&lt;p&gt;Something to think about: Here is the one question to take into the evening. Think of the group you most feel you belong to, the family, the team, the neighbourhood. What is the bond that actually holds it together, the shared history, the mutual trust, the quiet feeling that everyone is in it? If it were suddenly asked to hold a heavier weight than it was built for, what would you do to help it hold? There is no right answer. You only have to notice the bond, and decide what you would do to keep it strong.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/audio.mp3" length="1864172" type="audio/mpeg"/>
+    <itunes:duration>311</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/share.jpg"/>
+  </item>
   <item>
     <title>What Holds a Society Together: Lee Harris in Ten Minutes</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/</link>

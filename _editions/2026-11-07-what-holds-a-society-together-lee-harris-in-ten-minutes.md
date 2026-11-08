@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-06-the-future-is-not-written-popper-s-open-society/
   title: 'The Future Is Not Written: Popper''s Open Society'
+next:
+  url: /editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/
+  title: 'The Bonds That Hold Us: A Week in One Page'
 ---
 {% raw %}
 Harris starts by being careful with his word. He chose "civilization" because it is value-free, not a banner for us against them. He defines it as a state of social organization marked by tolerance, by cooperation, by a lessening reliance on violence as a way of getting things done, and, most importantly, by stability. It is a picture of a society that has grown calmer rather than louder.
