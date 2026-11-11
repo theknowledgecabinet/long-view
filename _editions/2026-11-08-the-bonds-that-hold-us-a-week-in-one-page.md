@@ -46,6 +46,9 @@ image:
 prev:
   url: /editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/
   title: 'What Holds a Society Together: Lee Harris in Ten Minutes'
+next:
+  url: /editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/
+  title: 'The Elephant and the Rider: Why Good People Divide'
 ---
 {% raw %}
 Monday opened with Lee Harris and his favourite trick: pressing something strange into a familiar shape. He begins with Montezuma, who had no category for the Spanish and so read them as the returning god Quetzalcoatl, a mismatch that proved fatal. Harris turns the same question on 9/11 and names what he calls a fantasy ideology: a belief that works like a stage, where the believer plays the hero of a cause he already accepts and treats everyone else as a prop. The example that stayed with me is Italy's conquest of Ethiopia, a war with no economic or strategic prize, demanded by the fantasy itself rather than serving any real end.

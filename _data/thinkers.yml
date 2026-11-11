@@ -1,3 +1,10 @@
+- name: Jonathan Haidt
+  editions:
+  - reading: 'The Righteous Mind: Why Good People are Divided by Politics and Religion'
+    year: '2012'
+    title: 'The Elephant and the Rider: Why Good People Divide'
+    url: /editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/
+    colour: '#4f8fb0'
 - name: Lee Harris
   editions:
   - reading: 'Al Qaeda''s Fantasy Ideology: War without Clausewitz'

@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 08 Nov 2026 18:27:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 18:12:21 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Elephant and the Rider: Why Good People Divide</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/</link>
+    <guid isPermaLink="false">long-view-7</guid>
+    <pubDate>Wed, 11 Nov 2026 18:12:21 +0000</pubDate>
+    <description>&lt;p&gt;Haidt&amp;#x27;s first and most surprising claim is that our beliefs are driven primarily by intuition, with reason operating mostly to justify what we already feel.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: The Righteous Mind: Why Good People are Divided by Politics and Religion, by Jonathan Haidt (2012). &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Righteous_Mind&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Next time you feel very certain about something, notice whether it is your reasoning that speaks first, or your feelings. If your own moral foundations are doing some of the work, what might you be willing to ask of the people who feel just as strongly from a different place?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/audio.mp3" length="1406252" type="audio/mpeg"/>
+    <itunes:duration>234</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/share.jpg"/>
+  </item>
   <item>
     <title>The Bonds That Hold Us: A Week in One Page</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/</link>
