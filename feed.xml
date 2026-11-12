@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 11 Nov 2026 18:12:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 18:20:43 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Kindness That Defends Itself: Popper&#x27;s Paradox</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/</link>
+    <guid isPermaLink="false">long-view-8</guid>
+    <pubDate>Thu, 12 Nov 2026 18:20:43 +0000</pubDate>
+    <description>&lt;p&gt;The paradox of tolerance is a question the philosopher Karl Popper named in his 1945 book The Open Society and Its Enemies. If a free society is genuinely tolerant, must it tolerate those who are not?&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Paradox of tolerance, by Karl Popper (1945). &lt;a href=&quot;https://en.wikipedia.org/wiki/Paradox_of_tolerance&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Where in your own life do you keep a door open to people or ideas you disagree with, and how do you keep that door from being forced shut from the inside?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/audio.mp3" length="1312508" type="audio/mpeg"/>
+    <itunes:duration>219</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/share.jpg"/>
+  </item>
   <item>
     <title>The Elephant and the Rider: Why Good People Divide</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/</link>

@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-08-the-bonds-that-hold-us-a-week-in-one-page/
   title: 'The Bonds That Hold Us: A Week in One Page'
+next:
+  url: /editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/
+  title: 'The Kindness That Defends Itself: Popper''s Paradox'
 ---
 {% raw %}
 Haidt's first and most surprising claim is that our beliefs are driven primarily by intuition, with reason operating mostly to justify what we already feel. He calls this social intuitionism, and tells it with a memorable metaphor, the "Rider and the Elephant". The elephant is the vast, unconscious mind that in fact determines the direction, while the rider is the rational mind that thinks it is in charge and then works up explanations for decisions it never made. He is in good company: he points to David Hume and the biologist E. O. Wilson as thinkers who gave reason a "relatively low estimation", in contrast with Lawrence Kohlberg and his stages of moral reasoning, which put reason at the centre.

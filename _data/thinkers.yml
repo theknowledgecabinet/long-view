@@ -34,6 +34,11 @@
     title: 'The Future Is Not Written: Popper''s Open Society'
     url: /editions/2026-11-06-the-future-is-not-written-popper-s-open-society/
     colour: '#c48a3f'
+  - reading: Paradox of tolerance
+    year: '1945'
+    title: 'The Kindness That Defends Itself: Popper''s Paradox'
+    url: /editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/
+    colour: '#b86a92'
 - name: Carl Schmitt
   editions:
   - reading: The Concept of the Political
