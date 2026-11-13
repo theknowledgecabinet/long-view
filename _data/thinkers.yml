@@ -27,6 +27,13 @@
     title: 'The Glue That Holds Civilisation Together: Ibn Khaldun''s Asabiyyah'
     url: /editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/
     colour: '#5f9e7f'
+- name: Steven Pinker
+  editions:
+  - reading: 'The Better Angels of Our Nature: Why Violence Has Declined'
+    year: '2011'
+    title: The Long Arc Towards a Gentler World
+    url: /editions/2026-11-13-the-long-arc-towards-a-gentler-world/
+    colour: '#6d9a4d'
 - name: Karl Popper
   editions:
   - reading: The Open Society and Its Enemies

@@ -25,7 +25,7 @@
 - name: Civilisational resilience
   slug: civilisational-resilience
   colour: '#6d9a4d'
-  count: 0
+  count: 1
 - name: Pragmatism and idealism
   slug: pragmatism-vs-idealism
   colour: '#4c9a9c'

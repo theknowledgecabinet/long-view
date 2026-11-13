@@ -55,6 +55,9 @@ image:
 prev:
   url: /editions/2026-11-11-the-elephant-and-the-rider-why-good-people-divide/
   title: 'The Elephant and the Rider: Why Good People Divide'
+next:
+  url: /editions/2026-11-13-the-long-arc-towards-a-gentler-world/
+  title: The Long Arc Towards a Gentler World
 ---
 {% raw %}
 The paradox of tolerance is a question the philosopher Karl Popper named in his 1945 book The Open Society and Its Enemies. If a free society is genuinely tolerant, must it tolerate those who are not? Popper's answer, in one memorable line, is that unlimited tolerance must lead to the disappearance of tolerance. A society that tolerates the intolerant without limit is, he warns, a society that will eventually be destroyed, and tolerance with it.

@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 12 Nov 2026 18:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 18:26:12 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Long Arc Towards a Gentler World</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-13-the-long-arc-towards-a-gentler-world/</link>
+    <guid isPermaLink="false">long-view-9</guid>
+    <pubDate>Fri, 13 Nov 2026 18:26:12 +0000</pubDate>
+    <description>&lt;p&gt;Steven Pinker&amp;#x27;s 2011 book opens with a claim that sounds like good news: violence in the world has declined on both the short and the long time scales, and the present is probably the most peaceful period in the history of the human species.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: The Better Angels of Our Nature: Why Violence Has Declined, by Steven Pinker (2011). &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Look back over the past few weeks. Where did you see one of the better angels at work, in yourself or around you? What habit, institution or small act of reason made that moment possible?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-13-the-long-arc-towards-a-gentler-world/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-13-the-long-arc-towards-a-gentler-world/audio.mp3" length="1569836" type="audio/mpeg"/>
+    <itunes:duration>262</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-13-the-long-arc-towards-a-gentler-world/share.jpg"/>
+  </item>
   <item>
     <title>The Kindness That Defends Itself: Popper&#x27;s Paradox</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/</link>
