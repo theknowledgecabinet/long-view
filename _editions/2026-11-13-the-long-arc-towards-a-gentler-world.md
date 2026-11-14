@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-12-the-kindness-that-defends-itself-popper-s-paradox/
   title: 'The Kindness That Defends Itself: Popper''s Paradox'
+next:
+  url: /editions/2026-11-14-the-man-who-went-round-the-squirrel/
+  title: The Man Who Went Round the Squirrel
 ---
 {% raw %}
 Steven Pinker's 2011 book opens with a claim that sounds like good news: violence in the world has declined on both the short and the long time scales, and the present is probably the most peaceful period in the history of the human species. He supports it with a great deal of data covering military conflict, homicide, genocide, torture, criminal justice and even the treatment of children. The title comes from the ending of Abraham Lincoln's first inaugural address, and Pinker uses the phrase as a metaphor for four motivations in us that "orient us away from violence and towards cooperation and altruism": empathy, self-control, the moral sense and reason.

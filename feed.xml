@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 13 Nov 2026 18:26:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 18:52:58 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Man Who Went Round the Squirrel</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-14-the-man-who-went-round-the-squirrel/</link>
+    <guid isPermaLink="false">long-view-10</guid>
+    <pubDate>Sat, 14 Nov 2026 18:52:58 +0000</pubDate>
+    <description>&lt;p&gt;It begins with a scene. Some years earlier, James writes, he was with a camping party in the mountains and returned from a solitary ramble to find everyone &amp;#x27;engaged in a ferocious metaphysical dispute&amp;#x27;.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Pragmatism, Lecture II: What Pragmatism Means, by William James (1906). &lt;a href=&quot;https://standardebooks.org/ebooks/william-james/pragmatism/text/chapter-2&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: The next time you find yourself in a quarrel that seems to have no end, try the man and the squirrel. Ask yourself what practical difference it would make to your life if one side were right rather than the other, and see whether the dispute is really about anything at all.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-14-the-man-who-went-round-the-squirrel/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-14-the-man-who-went-round-the-squirrel/audio.mp3" length="1729820" type="audio/mpeg"/>
+    <itunes:duration>288</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-14-the-man-who-went-round-the-squirrel/share.jpg"/>
+  </item>
   <item>
     <title>The Long Arc Towards a Gentler World</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-13-the-long-arc-towards-a-gentler-world/</link>

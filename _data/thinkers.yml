@@ -20,6 +20,13 @@
     title: 'What Holds a Society Together: Lee Harris in Ten Minutes'
     url: /editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/
     colour: '#5f9e7f'
+- name: William James
+  editions:
+  - reading: 'Pragmatism, Lecture II: What Pragmatism Means'
+    year: '1906'
+    title: The Man Who Went Round the Squirrel
+    url: /editions/2026-11-14-the-man-who-went-round-the-squirrel/
+    colour: '#4c9a9c'
 - name: Ibn Khaldun
   editions:
   - reading: Asabiyyah
