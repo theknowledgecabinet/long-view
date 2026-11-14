@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-13-the-long-arc-towards-a-gentler-world/
   title: The Long Arc Towards a Gentler World
+next:
+  url: /editions/2026-11-14-the-man-who-went-round-the-squirrel-2/
+  title: The Man Who Went Round the Squirrel
 ---
 {% raw %}
 It begins with a scene. Some years earlier, James writes, he was with a camping party in the mountains and returned from a solitary ramble to find everyone 'engaged in a ferocious metaphysical dispute'. A man is pacing round a tree, and a squirrel on the tree keeps turning, so the trunk always stays between them. Does the man go round the squirrel? Everyone has taken sides, the numbers are even, and both sides appeal to James to make a majority. His answer is not a verdict. It is a distinction. The answer, he says, 'depends on what you practically mean' by the words: if you mean passing from the north of the squirrel to the east, then the south, then the west, the man obviously goes round; but if you mean being first in front of him, then on his right, then behind him, then on his left, the man fails to go round, because the squirrel keeps its belly turned towards him all the while. 'You are both right and both wrong', he concludes, according as you conceive the verb in one practical fashion or the other.
