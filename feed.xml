@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 14 Nov 2026 18:54:50 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 18:12:06 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Four Ways to Live Together: The Week in One Page</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-15-four-ways-to-live-together-the-week-in-one-page/</link>
+    <guid isPermaLink="false">long-view-12</guid>
+    <pubDate>Sun, 15 Nov 2026 18:12:06 +0000</pubDate>
+    <description>&lt;p&gt;Monday opened with Jonathan Haidt and his memorable Rider and the Elephant. Our intuitions decide first, and reason arrives afterwards to tidy up the explanation.&lt;/p&gt;&lt;p&gt;Something to think about: This week kept returning to one idea: that disagreement is not the same as enmity. Over the days ahead, when someone you care about feels strongly about something you do not, try one of the week&amp;#x27;s tools. Ask what practical difference the dispute would make to your life, or which moral foundations might be doing the work in each of you, and see whether a door opens where there was only a wall.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-15-four-ways-to-live-together-the-week-in-one-page/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-15-four-ways-to-live-together-the-week-in-one-page/audio.mp3" length="1491068" type="audio/mpeg"/>
+    <itunes:duration>248</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-15-four-ways-to-live-together-the-week-in-one-page/share.jpg"/>
+  </item>
   <item>
     <title>The Man Who Went Round the Squirrel</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-14-the-man-who-went-round-the-squirrel-2/</link>
