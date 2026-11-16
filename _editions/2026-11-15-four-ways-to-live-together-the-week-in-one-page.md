@@ -43,6 +43,9 @@ image:
 prev:
   url: /editions/2026-11-14-the-man-who-went-round-the-squirrel-2/
   title: The Man Who Went Round the Squirrel
+next:
+  url: /editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/
+  title: 'The Citizen of Nowhere: Harris on Patriotism and the World'
 ---
 {% raw %}
 Monday opened with Jonathan Haidt and his memorable Rider and the Elephant. Our intuitions decide first, and reason arrives afterwards to tidy up the explanation. He then lays out moral foundations, six distinct receptors (care, fairness, loyalty, authority, sanctity and liberty) through which different groups read the world. The upshot is a kind of compassion: because different sides attend to different receptors, their views can look strange to one another.

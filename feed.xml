@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 15 Nov 2026 18:12:06 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 18:28:10 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Citizen of Nowhere: Harris on Patriotism and the World</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/</link>
+    <guid isPermaLink="false">long-view-13</guid>
+    <pubDate>Mon, 16 Nov 2026 18:28:10 +0000</pubDate>
+    <description>&lt;p&gt;Harris takes on one of the most debated questions in education: should we teach our children to be patriotic, or to be citizens of the world before all else? His answer is not a flat refusal.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: The Cosmopolitan Illusion: The citizen of the world is a citizen of nowhere, by Lee Harris (2003). &lt;a href=&quot;https://harris.pundicity.com/2360/the-cosmopolitan-illusion&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Think of the communities you belong to, from family to country to the wider world. Which of them made you most of who you are, and what would you want to pass on to the next generation?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/audio.mp3" length="1596908" type="audio/mpeg"/>
+    <itunes:duration>266</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/share.jpg"/>
+  </item>
   <item>
     <title>Four Ways to Live Together: The Week in One Page</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-15-four-ways-to-live-together-the-week-in-one-page/</link>
