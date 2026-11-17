@@ -55,6 +55,9 @@ image:
 prev:
   url: /editions/2026-11-15-four-ways-to-live-together-the-week-in-one-page/
   title: 'Four Ways to Live Together: The Week in One Page'
+next:
+  url: /editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/
+  title: 'What the Strong Do: Thucydides on Power and Justice'
 ---
 {% raw %}
 Harris takes on one of the most debated questions in education: should we teach our children to be patriotic, or to be citizens of the world before all else? His answer is not a flat refusal. It is a careful excavation of what the cosmopolitan ideal actually is, and where it can quietly lead. The strongest form of the case, he grants, is that nationality is an accident, while being human is not. We may accidentally be Swiss or Indian, but we are essentially and necessarily human beings, and that is the one group no one can challenge as arbitrary.

@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 16 Nov 2026 18:28:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 18:20:52 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>What the Strong Do: Thucydides on Power and Justice</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/</link>
+    <guid isPermaLink="false">long-view-14</guid>
+    <pubDate>Tue, 17 Nov 2026 18:20:52 +0000</pubDate>
+    <description>&lt;p&gt;In the summer of 416 BC, the great Athenian empire sent at least 3,400 men and 38 ships to a small island in the Aegean called Melos.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: The Melian Dialogue, by Thucydides (c. 400 BC). &lt;a href=&quot;https://en.wikipedia.org/wiki/Melian_Dialogue&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Where in your week do you hold the advantage, in a meeting, a family, a friendship? What would it look like, and what would it cost you, to act for the other person in that room rather than against them?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/audio.mp3" length="1737596" type="audio/mpeg"/>
+    <itunes:duration>290</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/share.jpg"/>
+  </item>
   <item>
     <title>The Citizen of Nowhere: Harris on Patriotism and the World</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/</link>

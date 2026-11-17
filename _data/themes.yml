@@ -5,7 +5,7 @@
 - name: Civilisation and its enemies
   slug: civilisational-conflict
   colour: '#c9776b'
-  count: 1
+  count: 2
 - name: Social cohesion
   slug: social-cohesion
   colour: '#5f9e7f'

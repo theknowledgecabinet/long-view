@@ -71,3 +71,10 @@
     title: 'Friend or Enemy: What Makes a People?'
     url: /editions/2026-11-04-friend-or-enemy-what-makes-a-people/
     colour: '#c9776b'
+- name: Thucydides
+  editions:
+  - reading: The Melian Dialogue
+    year: c. 400 BC
+    title: 'What the Strong Do: Thucydides on Power and Justice'
+    url: /editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/
+    colour: '#c9776b'
