@@ -26,6 +26,13 @@
     title: 'What Holds a Society Together: Lee Harris in Ten Minutes'
     url: /editions/2026-11-07-what-holds-a-society-together-lee-harris-in-ten-minutes/
     colour: '#5f9e7f'
+- name: Eric Hoffer
+  editions:
+  - reading: 'The True Believer: Thoughts on the Nature of Mass Movements'
+    year: '1951'
+    title: 'The Hunger to Belong: Hoffer on Mass Movements'
+    url: /editions/2026-11-18-the-hunger-to-belong-hoffer-on-mass-movements/
+    colour: '#c48a3f'
 - name: William James
   editions:
   - reading: 'Pragmatism, Lecture II: What Pragmatism Means'

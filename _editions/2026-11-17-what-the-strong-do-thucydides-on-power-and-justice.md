@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/
   title: 'The Citizen of Nowhere: Harris on Patriotism and the World'
+next:
+  url: /editions/2026-11-18-the-hunger-to-belong-hoffer-on-mass-movements/
+  title: 'The Hunger to Belong: Hoffer on Mass Movements'
 ---
 {% raw %}
 In the summer of 416 BC, the great Athenian empire sent at least 3,400 men and 38 ships to a small island in the Aegean called Melos. The Melians were Dorians, the same people as the Spartans, and they had stayed neutral in the long war between Athens and Sparta. Athens demanded that they join the Delian League, the alliance of cities led by Athens, and pay tribute, or be destroyed. They refused. Thucydides, who was in exile at the time, did not witness the negotiations before the siege, but he wrote them up as a dialogue, and it has become one of the most talked about scenes in the whole of Greek history.
