@@ -1,3 +1,10 @@
+- name: Jonathan Haidt, Craig Joseph, and colleagues
+  editions:
+  - reading: Moral foundations theory
+    year: '2004'
+    title: Six Instincts Behind Every Argument
+    url: /editions/2026-11-19-six-instincts-behind-every-argument/
+    colour: '#4f8fb0'
 - name: Jonathan Haidt
   editions:
   - reading: 'The Righteous Mind: Why Good People are Divided by Politics and Religion'

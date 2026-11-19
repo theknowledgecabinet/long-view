@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 18:19:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:24:31 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Six Instincts Behind Every Argument</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-19-six-instincts-behind-every-argument/</link>
+    <guid isPermaLink="false">long-view-16</guid>
+    <pubDate>Thu, 19 Nov 2026 18:24:31 +0000</pubDate>
+    <description>&lt;p&gt;Moral foundations theory, proposed in 2004 by the psychologists Jonathan Haidt and Craig Joseph and later expanded with colleagues, suggests that morality is not one thing, but rests on a small set of innate, modular foundations.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Moral foundations theory, by Jonathan Haidt, Craig Joseph, and colleagues (2004). &lt;a href=&quot;https://en.wikipedia.org/wiki/Moral_foundations_theory&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: The next time a disagreement feels stuck, try a small experiment: before answering, name the moral foundation the other person is speaking from. Is the argument really about the same thing, or are two different foundations talking past each other?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-19-six-instincts-behind-every-argument/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-19-six-instincts-behind-every-argument/audio.mp3" length="1459676" type="audio/mpeg"/>
+    <itunes:duration>243</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-19-six-instincts-behind-every-argument/share.jpg"/>
+  </item>
   <item>
     <title>The Hunger to Belong: Hoffer on Mass Movements</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-18-the-hunger-to-belong-hoffer-on-mass-movements/</link>

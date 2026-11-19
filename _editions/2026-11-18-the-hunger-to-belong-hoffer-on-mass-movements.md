@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/
   title: 'What the Strong Do: Thucydides on Power and Justice'
+next:
+  url: /editions/2026-11-19-six-instincts-behind-every-argument/
+  title: Six Instincts Behind Every Argument
 ---
 {% raw %}
 Eric Hoffer's big, humane claim is that mass movements are far more alike than they look. Communism and fascism were bitter enemies, yet he argues they are "interchangeable" in a very telling sense: they draw on the same deep human feeling, and they recruit the same kind of people. It is not really the ideas that move people, Hoffer says, but the feeling of belonging and purpose a movement offers, the chance to fold your separate self into something bigger and feel worthwhile at last.
