@@ -28,7 +28,7 @@ further:
   source: Boston Review
 audio:
   url: /assets/editions/2026-11-16-the-citizen-of-nowhere-harris-on-patriotism-and-the-world/audio.mp3
-  bytes: 1596908
+  bytes: 1596764
   seconds: 266
   length: 4 min
 image:

@@ -24,7 +24,7 @@ other_side: Plato staged the same question very differently. In the first book o
 question: Where in your week do you hold the advantage, in a meeting, a family, a friendship? What would it look like, and what would it cost you, to act for the other person in that room rather than against them?
 audio:
   url: /assets/editions/2026-11-17-what-the-strong-do-thucydides-on-power-and-justice/audio.mp3
-  bytes: 1737596
+  bytes: 1737740
   seconds: 290
   length: 5 min
 image:

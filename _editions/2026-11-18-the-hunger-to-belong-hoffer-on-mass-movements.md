@@ -24,7 +24,7 @@ other_side: Alexis de Tocqueville saw the same human hunger from a different end
 question: 'Hoffer''s lasting gift is to notice that much of our political heat is a hunger to belong rather than to believe. So, gently: where do you find your own sense of belonging, and is it something you are part of, or something you serve?'
 audio:
   url: /assets/editions/2026-11-18-the-hunger-to-belong-hoffer-on-mass-movements/audio.mp3
-  bytes: 1200332
+  bytes: 1200476
   seconds: 200
   length: 3 min
 image:
