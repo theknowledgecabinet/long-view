@@ -24,7 +24,7 @@ other_side: 'Lee Harris, for his part, looked at the same world through a lens o
 question: Look back over the past few weeks. Where did you see one of the better angels at work, in yourself or around you? What habit, institution or small act of reason made that moment possible?
 audio:
   url: /assets/editions/2026-11-13-the-long-arc-towards-a-gentler-world/audio.mp3
-  bytes: 1569836
+  bytes: 1569980
   seconds: 262
   length: 4 min
 image:

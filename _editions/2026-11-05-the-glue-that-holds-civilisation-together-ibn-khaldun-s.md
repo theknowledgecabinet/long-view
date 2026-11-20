@@ -28,7 +28,7 @@ further:
   source: Wikipedia
 audio:
   url: /assets/editions/2026-11-05-the-glue-that-holds-civilisation-together-ibn-khaldun-s/audio.mp3
-  bytes: 1462556
+  bytes: 1462700
   seconds: 244
   length: 4 min
 image:

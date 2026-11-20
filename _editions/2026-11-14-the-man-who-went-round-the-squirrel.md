@@ -24,7 +24,7 @@ other_side: 'James sketches the idealist''s temper in this very lecture, and it 
 question: The next time you find yourself in a quarrel that seems to have no end, try the man and the squirrel. Ask yourself what practical difference it would make to your life if one side were right rather than the other, and see whether the dispute is really about anything at all.
 audio:
   url: /assets/editions/2026-11-14-the-man-who-went-round-the-squirrel/audio.mp3
-  bytes: 1729820
+  bytes: 1729676
   seconds: 288
   length: 5 min
 image:
