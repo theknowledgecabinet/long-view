@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-18-the-hunger-to-belong-hoffer-on-mass-movements/
   title: 'The Hunger to Belong: Hoffer on Mass Movements'
+next:
+  url: /editions/2026-11-21-the-common-sense-that-saves-democracy/
+  title: The Common Sense That Saves Democracy
 ---
 {% raw %}
 Moral foundations theory, proposed in 2004 by the psychologists Jonathan Haidt and Craig Joseph and later expanded with colleagues, suggests that morality is not one thing, but rests on a small set of innate, modular foundations. What began as five grew to six: care and harm, fairness and cheating, loyalty and betrayal, authority and subversion, sanctity and degradation, and liberty and oppression. Haidt and his colleagues describe care and fairness as an 'individualizing cluster', and loyalty, authority and sanctity as a 'group-focused binding cluster'.

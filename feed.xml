@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 18:24:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 18:21:51 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Common Sense That Saves Democracy</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-21-the-common-sense-that-saves-democracy/</link>
+    <guid isPermaLink="false">long-view-17</guid>
+    <pubDate>Sat, 21 Nov 2026 18:21:51 +0000</pubDate>
+    <description>&lt;p&gt;In this essay Lee Harris takes on a fashionable complaint: that the ordinary voter is simply too unlearned to run a democracy, and that we would be better off leaving the hard choices to the experts.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Are Americans Too Dumb for Democracy?, by Lee Harris (2012). &lt;a href=&quot;https://harris.pundicity.com/11834/american-democracy&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Next time a confident expert or a headline tells you what to think, can you notice the easier question you are answering in place of the harder, real one? What would it feel like to sit with the harder one for a while, without hurrying to a tidy answer?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-21-the-common-sense-that-saves-democracy/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-21-the-common-sense-that-saves-democracy/audio.mp3" length="1515980" type="audio/mpeg"/>
+    <itunes:duration>253</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-21-the-common-sense-that-saves-democracy/share.jpg"/>
+  </item>
   <item>
     <title>Six Instincts Behind Every Argument</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-19-six-instincts-behind-every-argument/</link>
