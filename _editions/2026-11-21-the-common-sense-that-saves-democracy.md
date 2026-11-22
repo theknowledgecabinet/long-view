@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-19-six-instincts-behind-every-argument/
   title: Six Instincts Behind Every Argument
+next:
+  url: /editions/2026-11-22-what-holds-a-civilisation-together-the-week-in-one-page/
+  title: 'What Holds a Civilisation Together: The Week in One Page'
 ---
 {% raw %}
 In this essay Lee Harris takes on a fashionable complaint: that the ordinary voter is simply too unlearned to run a democracy, and that we would be better off leaving the hard choices to the experts. The argument comes from a team of psychologists at Cornell, who worry that most of us cannot tell a brilliant idea from a bad one. Harris thinks this gets the picture exactly backwards, and he has two moves.
