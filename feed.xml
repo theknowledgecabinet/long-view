@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 22 Nov 2026 18:28:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 18:54:19 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Peace Is Something You Do: Harris on the Pacifists Who Accepted War</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-23-peace-is-something-you-do-harris-on-the-pacifists-who/</link>
+    <guid isPermaLink="false">long-view-19</guid>
+    <pubDate>Mon, 23 Nov 2026 18:54:19 +0000</pubDate>
+    <description>&lt;p&gt;Before the First World War, men like the American orator William Jennings Bryan called themselves pacifists, but the word meant something different to them than to us. It did not mean refusing to fight under any circumstances.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Pragmatic Pacifism, by Lee Harris (2003). &lt;a href=&quot;https://harris.pundicity.com/2342/pragmatic-pacifism&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: Where in your own life are the rules that hold things together kept by only one person? What would you need to believe before you trusted that person, or volunteered for the role yourself?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-23-peace-is-something-you-do-harris-on-the-pacifists-who/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-23-peace-is-something-you-do-harris-on-the-pacifists-who/audio.mp3" length="1493804" type="audio/mpeg"/>
+    <itunes:duration>249</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-23-peace-is-something-you-do-harris-on-the-pacifists-who/share.jpg"/>
+  </item>
   <item>
     <title>What Holds a Civilisation Together: The Week in One Page</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-22-what-holds-a-civilisation-together-the-week-in-one-page/</link>

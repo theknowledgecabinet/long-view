@@ -43,6 +43,9 @@ image:
 prev:
   url: /editions/2026-11-21-the-common-sense-that-saves-democracy/
   title: The Common Sense That Saves Democracy
+next:
+  url: /editions/2026-11-23-peace-is-something-you-do-harris-on-the-pacifists-who/
+  title: 'Peace Is Something You Do: Harris on the Pacifists Who Accepted War'
 ---
 {% raw %}
 A week in five editions, and they turn out to circle the same question: what holds a civilisation together? Monday opened with Lee Harris taking on the citizen of the world, the cosmopolitan. He traced the idea back to the Greek Diogenes, who called himself a citizen of the world simply because there is never any danger that such an abstract entity will make a concrete demand on him. A charming phrase, Harris shows, with a chilling skeleton underneath: the world asks nothing from you, and you owe it nothing in return. His closing turn was the gentlest line of the week. He suggests that patriotism is the indispensable prerequisite of a higher and more universal view, and he writes that the world is a vastly better place because it contains people whose only fault is the desire to make all people as good and reasonable as they themselves are.
