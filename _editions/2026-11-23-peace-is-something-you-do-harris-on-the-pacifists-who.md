@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-22-what-holds-a-civilisation-together-the-week-in-one-page/
   title: 'What Holds a Civilisation Together: The Week in One Page'
+next:
+  url: /editions/2026-11-24-the-city-that-taught-greece-pericles-oration-for-the-dead/
+  title: 'The City That Taught Greece: Pericles'' Oration for the Dead'
 ---
 {% raw %}
 Before the First World War, men like the American orator William Jennings Bryan called themselves pacifists, but the word meant something different to them than to us. It did not mean refusing to fight under any circumstances. It meant refusing to fight for selfish national aims, while accepting that a community of nations would sometimes have to use force to defend the rules against those who broke them. Harris calls them pragmatic pacifists, because, in his phrase, "they wanted something imperfect that worked rather than something perfect that didn't."
