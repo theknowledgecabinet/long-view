@@ -1,7 +1,7 @@
 - name: Fantasy ideology
   slug: fantasy-ideology
   colour: '#9a6fc4'
-  count: 2
+  count: 3
 - name: Civilisation and its enemies
   slug: civilisational-conflict
   colour: '#c9776b'

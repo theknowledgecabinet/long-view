@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-23-peace-is-something-you-do-harris-on-the-pacifists-who/
   title: 'Peace Is Something You Do: Harris on the Pacifists Who Accepted War'
+next:
+  url: /editions/2026-11-25-the-picture-that-moves-a-people/
+  title: The Picture That Moves a People
 ---
 {% raw %}
 In the late fifth century BC, when Athens was at war, the city held an annual public funeral for all those who had died in battle. Their remains lay in a tent for three days, then were carried in a procession in ten cypress coffins, one for each of the Athenian tribes, and an empty one for the missing and unrecovered. At the end of the first year of the Peloponnesian War, the speaker chosen to address the mourners was Pericles, the leading citizen of the city, and what he said survives in book two of Thucydides' History of the Peloponnesian War.

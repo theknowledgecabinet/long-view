@@ -95,6 +95,13 @@
     title: 'Friend or Enemy: What Makes a People?'
     url: /editions/2026-11-04-friend-or-enemy-what-makes-a-people/
     colour: '#c9776b'
+- name: Georges Sorel
+  editions:
+  - reading: Reflections on Violence
+    year: '1908'
+    title: The Picture That Moves a People
+    url: /editions/2026-11-25-the-picture-that-moves-a-people/
+    colour: '#9a6fc4'
 - name: Thucydides
   editions:
   - reading: The Melian Dialogue
