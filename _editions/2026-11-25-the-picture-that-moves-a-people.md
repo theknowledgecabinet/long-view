@@ -55,6 +55,9 @@ image:
 prev:
   url: /editions/2026-11-24-the-city-that-taught-greece-pericles-oration-for-the-dead/
   title: 'The City That Taught Greece: Pericles'' Oration for the Dead'
+next:
+  url: /editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/
+  title: 'The Invisible Glue: The Quiet Idea of Civil Religion'
 ---
 {% raw %}
 Georges Sorel was a French syndicalist thinker, and in Reflections on Violence, published in 1908, he set out to study what actually moves a social movement. Central to the book is his theory that what moves a movement is not argument or policy, but the myth. A myth, for Sorel, is not a falsehood but a vivid image, a "picture" held by a whole community, best understood as a whole rather than dissected. In his famous definition, "Men who are participating in a great social movement always picture their coming action as a battle in which their cause is certain to triumph." He did not care whether the picture was literally true; by his own words he was "not at all concerned to justify the perpetrators of violence", but to understand the function such images serve.

@@ -1,3 +1,10 @@
+- name: Jean-Jacques Rousseau and Robert Bellah
+  editions:
+  - reading: Civil religion
+    year: 1762 and 1967
+    title: 'The Invisible Glue: The Quiet Idea of Civil Religion'
+    url: /editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/
+    colour: '#5f9e7f'
 - name: Jonathan Haidt, Craig Joseph, and colleagues
   editions:
   - reading: Moral foundations theory

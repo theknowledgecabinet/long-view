@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 25 Nov 2026 18:48:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 18:44:02 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The Invisible Glue: The Quiet Idea of Civil Religion</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/</link>
+    <guid isPermaLink="false">long-view-22</guid>
+    <pubDate>Thu, 26 Nov 2026 18:44:02 +0000</pubDate>
+    <description>&lt;p&gt;Look closely at any nation and you will find that it shares far more than laws and a language. There is a flag and an anthem, oaths of allegiance, monuments and memorial days, founding stories told with quiet reverence.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Civil religion, by Jean-Jacques Rousseau and Robert Bellah (1762 and 1967). &lt;a href=&quot;https://en.wikipedia.org/wiki/Civil_religion&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: This evening, as you look at the country you live in, what is the one shared ritual, story or symbol that binds you to your neighbours and that you would struggle to imagine life without?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/audio.mp3" length="1688204" type="audio/mpeg"/>
+    <itunes:duration>281</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/share.jpg"/>
+  </item>
   <item>
     <title>The Picture That Moves a People</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-25-the-picture-that-moves-a-people/</link>
