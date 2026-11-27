@@ -51,6 +51,9 @@ image:
 prev:
   url: /editions/2026-11-25-the-picture-that-moves-a-people/
   title: The Picture That Moves a People
+next:
+  url: /editions/2026-11-27-who-gets-to-tell-a-people-s-story/
+  title: Who Gets to Tell a People's Story
 ---
 {% raw %}
 Look closely at any nation and you will find that it shares far more than laws and a language. There is a flag and an anthem, oaths of allegiance, monuments and memorial days, founding stories told with quiet reverence. Put these together and you get what scholars call civil religion: the "implicit religious values of a nation", expressed "through public rituals, symbols (such as the national flag), and ceremonies on sacred days and sacred places". It is distinct from the churches, though it can borrow from them: it belongs to the nation rather than to any one denomination, and it is usually practised by political leaders who are ordinary citizens, not clergy.

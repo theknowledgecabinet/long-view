@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/long-view/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A calm five minutes with a big idea, every evening: the thinkers who help us understand how people live together, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 26 Nov 2026 18:44:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 18:22:04 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg</url><title>The Long View</title><link>https://theknowledgecabinet.github.io/long-view/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/podcast-cover.jpg"/>
   <itunes:author>The Knowledge Cabinet</itunes:author>
@@ -14,6 +14,18 @@
   <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Who Gets to Tell a People&#x27;s Story</title>
+    <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-27-who-gets-to-tell-a-people-s-story/</link>
+    <guid isPermaLink="false">long-view-23</guid>
+    <pubDate>Fri, 27 Nov 2026 18:22:04 +0000</pubDate>
+    <description>&lt;p&gt;In 1978, a public intellectual named Edward Said did something small that turned out to be enormous: he made the word &amp;#x27;Orientalism&amp;#x27; a critical term.&lt;/p&gt;&lt;p&gt;Tonight&#x27;s reading: Orientalism, by Edward Said (1978). &lt;a href=&quot;https://en.wikipedia.org/wiki/Orientalism_(book)&quot;&gt;Read it&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Something to think about: The pictures you carry of other places and peoples come from news, films and stories, most of them made by others. Do those pictures help you see those people more clearly, or do they flatten them into a single caricature?&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://theknowledgecabinet.github.io/long-view/editions/2026-11-27-who-gets-to-tell-a-people-s-story/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-27-who-gets-to-tell-a-people-s-story/audio.mp3" length="1346924" type="audio/mpeg"/>
+    <itunes:duration>224</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://theknowledgecabinet.github.io/long-view/assets/editions/2026-11-27-who-gets-to-tell-a-people-s-story/share.jpg"/>
+  </item>
   <item>
     <title>The Invisible Glue: The Quiet Idea of Civil Religion</title>
     <link>https://theknowledgecabinet.github.io/long-view/editions/2026-11-26-the-invisible-glue-the-quiet-idea-of-civil-religion/</link>
